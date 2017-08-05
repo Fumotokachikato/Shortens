@@ -1,0 +1,2 @@
+# Shortens
+safelink.js
